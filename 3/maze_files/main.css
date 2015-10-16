@@ -1,0 +1,62 @@
+.modal-backdrop.in {
+    opacity: 0.7;
+}
+
+.modal-content {
+    background-color: #C8C8C8;
+}
+
+.modal-body {
+    font-size: 17px;
+    padding: 30px;
+    overflow-y: scroll;
+    max-height: 400px;
+}
+
+.modal-dialog {
+    margin: auto;
+    margin-top: 10%;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #555;
+    border-color: #000;
+}
+
+.welcome .btn {
+    position: absolute;
+    bottom: 20px;
+    right: 56px;
+}
+
+.welcome h2 {
+    text-align: center;
+}
+
+ul.errorlist {
+    color: red;
+    list-style-type: none;
+    position: absolute;
+    right: 33px;
+    top: -16px;
+}
+
+.intro {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.intro img {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: 10px;
+    right: 10px;
+}
+
+.center {
+    text-align: center;
+}

@@ -1,0 +1,7 @@
+import md5
+
+x = 'BBBBBBBBBBBBBBBBBBRRRRRRRRTTLLTTRRRRBBRRTTTTTTRRBBBBBBRRBBRR'
+
+print set(x)
+
+print md5.md5(x).hexdigest()
